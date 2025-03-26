@@ -104,3 +104,4 @@ Questo mod è distribuito sotto licenza MIT. Vedi il file `LICENSE` per i dettag
 - ScriptHookV by Alexander Blade
 - ScriptHookVDotNet by crosire
 - Newtonsoft.Json by James Newton-King 
+=======
