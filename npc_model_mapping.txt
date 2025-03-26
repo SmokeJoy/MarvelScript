@@ -1,0 +1,109 @@
+
+NomePersonaggio | Modello | Hash | Descrizione | Fazione | PowerType
+---------------|---------|------|-------------|---------|----------
+Punisher | s_m_y_airworker | 0x62018559 | Air Worker Male | Hero | punisher
+Taskmaster | g_m_y_korlieut_01 | 0x7CCBE17A | Korean Lieutenant | Villain | taskmaster
+Venom | s_m_y_construct_01 | 0xD7DA9E99 | construction Worker | Villain | venom
+WMmk2 | a_m_y_juggalo_01 | 0x91CA3E2C | Juggalo Male | Hero | warmachine
+LOBO | a_m_y_vinewood_04 | 0x31C9E669 | Vinewood Male 4 | Villain | lobo
+wanda | g_m_y_pologoon_02_p | 0x59279E8B | Polynesian Goon 2 | Hero | scarletwitch
+Shuri | s_m_y_prisoner_01 | 0xB1BB9B59 | Prisoner | Hero | shuri
+Victor_Zsasz | s_m_y_blackops_01 | 0xB3F3EE34 | Black Ops Soldier | Villain | zsasz
+SolomonG | a_m_y_skater_01 | 0xC1C46677 | Skater Young Male | Villain | grundy
+prowler | a_m_y_business_01 | 0xC99F21C4 | Business Young Male | Villain | prowler
+venom_tas | s_m_y_hwaycop_01 | 0x739B1EF5 | Highway Cop | Villain | venom
+Spawn | s_m_y_prismuscl_01 | 0x5F2113A1 | Prisoner (Muscular) | Hero | spawn
+wscapamerica(nohelm) | s_m_y_strvend_01 | 0x927F2323 | Street Vendor Young | Hero | captain
+Thor_IW | a_m_y_business_03 | 0xA1435105 | Business Young Male 3 | Hero | thor
+BlackWidow_TeamSuit | g_m_y_famfor_01 | 0x84302B09 | Families FOR Male | Hero | blackwidow
+KravenTH | a_m_y_hipster_02 | 0x14D506EE | Hipster Male 2 | Villain | kraven
+docstm | a_m_y_clubcust_02 | 0xC62F4D32 | Club Customer | Villain | doctoroctopus
+scarlet_witch | a_m_y_surfer_01 | 0xEAC2C7EE | Surfer | Hero | scarletwitch
+ThorAETeamSuit | s_m_y_mime | 0x3CDCA742 | Mime Artist | Hero | thor
+Cable_XForce | a_m_y_beachvesp_02 | 0xCA56FA52 | Vespucci Beach Male 2 | Hero | cable
+Scorpion_Injustice | g_m_y_lost_03 | 0x32B11CDC | The Lost MC Male 3 | Villain | scorpion
+CrossBones | g_m_y_mexgoon_03 | 0x964D12DC | Mexican Goon 3 | Villain | crossbones
+Mysterio_FFH | a_f_y_eastsa_01 | 0xF5B0079D | East SA Young Female | Villain | mysterio
+redskull | a_m_y_clubcust_03 | 0xD4F5EABF | Club Customer | Villain | redskull
+Blackwidow_AE | s_m_y_waretech_01 | 0x48C7A430 | Warehouse Technician | Hero | blackwidow
+Ultron | a_f_y_vinewood_01 | 0x19F41F65 | Vinewood Female | Villain | ultron
+HulkbusterIW | a_f_y_tourist_01 | 0x563B8570 | Tourist Young Female | Hero | hulkbuster
+lukecage | a_m_y_hipster_01 | 0x2307A353 | Hipster Male | Hero | lukecage
+Daredevil(Netflix)brighterred | a_f_y_clubcust_02 | 0x154E3679 | Club Customer | Hero | daredevil
+johnnystar | a_f_y_clubcust_03 | 0x00A40D25 | Club Customer | Hero | johnnystar
+loki_tr | a_f_y_golfer_01 | 0x7DD8FB58 | Golfer Young Female | Villain | loki
+BlueBV | a_m_y_beachvesp_01 | 0x7E0961B8 | Vespucci Beach Male | Hero | beetle
+Joker(BAC) | a_m_y_business_02 | 0xB3B3F5E6 | Business Young Male 2 | Villain | joker
+Carnage(MH) | a_m_y_stwhi_01 | 0x2418C430 | White Street Male | Villain | carnage
+capamerica(helm) | a_m_y_busicas_01 | 0x9AD32FE9 | Business Casual | Hero | captain
+BlackPanther | s_m_y_factory_01 | 0x4163A158 | Factory Worker Male | Hero | blackpanther
+capamerica(nohelm) | g_m_y_salvagoon_01 | 0x278C8CB7 | Salvadoran Goon | Hero | captain
+bane | a_f_y_skater_01 | 0x695FE666 | Skater Female | Villain | bane
+FlashUpgradedInjustice2 | a_m_y_musclbeac_02 | 0xC923247C | Beach Muscle Male 2 | Hero | flash
+JokerThug2 | a_m_y_dhill_01 | 0xFF3E88AB | Downhill Cyclist | Villain | thug
+WarMachinemk3 | g_m_y_korean_01 | 0x247502A9 | Korean Young Male | Hero | warmachine
+HulkBusterMFF | a_m_y_yoga_01 | 0xAB0A7155 | Yoga Male | Hero | hulkbuster
+Deadpool | s_m_y_ammucity_01 | 0x9E08633D | Ammu-Nation City Clerk | Neutral | deadpool
+Kingpin | g_m_y_mexgoon_03_p | 0x3A9C818D | Mexican Goon 3 | Villain | kingpin
+cyclops90 | a_m_y_motox_02 | 0x77AC8FDA | Motocross Biker 2 | Hero | cyclops
+Hawkeye Avengers | a_m_y_gay_01 | 0xD1CCE036 | Gay Male | Hero | hawkeye
+cable(deadpoolgame) | s_m_y_dealer_01 | 0xE497BBEF | Dealer | Hero | cable
+BlackCat | a_f_y_hippie_01 | 0x1475B827 | Hippie Female | Neutral | blackcat
+JeanGreyMFF | a_f_y_tourist_02 | 0x9123FB40 | Tourist Young Female 2 | Hero | phoenix
+CWFalcon | a_m_y_ktown_01 | 0x1AF6542C | Korean Young Male | Hero | falcon
+Carnage(CletusKasady) | a_f_y_bevhills_03 | 0x20C8012F | Beverly Hills Young Female 3 | Villain | carnage
+FlashEliteInjustice2 | g_m_y_pologoon_01_p | 0x925F7838 | Polynesian Goon | Hero | flash
+FlashInjustice2 | a_m_y_beach_02 | 0x23C7DC11 | Beach Young Male 2 | Hero | flash
+Teth_Adam | a_m_y_sunbathe_01 | 0xB7292F0C | Sunbather Male | Villain | blackadam
+Poison-Ivy | a_m_y_vinewood_03 | 0x1FDF4294 | Vinewood Male 3 | Villain | poisonivy
+Hulk(Avengers) | a_f_y_vinewood_02 | 0xDAB6A0EB | Vinewood Female 2 | Hero | hulk
+Ronin | a_f_y_bevhills_02 | 0x5C2CF7F8 | Beverly Hills Young Female 2 | Hero | ronin
+GRobbie | a_m_y_soucent_02 | 0xACA3C8CA | South Central Young Male 2 | Villain | ghostrider
+AC_Victor_Zsasz | a_f_y_runner_01 | 0xC7496729 | Jogger Female | Villain | zsasz
+wscapamerica(helm) | a_f_y_fitness_01 | 0x457C64FB | Fitness Female | Hero | captain
+SpiderMan | a_m_y_hipster_03 | 0x4E4179C6 | Hipster Male 3 | Hero | spiderman
+Grootz | a_m_y_clubcust_01 | 0xA7B71042 | Club Customer | Hero | groot
+Silversurfer | s_m_y_shop_mask | 0x6E122C06 | Sales Assistant (Mask Stall) | Neutral | silversurfer
+Stan_Lee_Nuff_Said | g_m_y_salvagoon_03 | 0x70C720B0 | Salvadoran Goon 3 | Neutral | stanlee
+JokerThug1 | a_m_y_vinewood_02 | 0x5D15BD00 | Vinewood Male 2 | Villain | thug
+Joker(BAK) | a_m_y_indian_01 | 0x2A22FBCE | Indian Young Male | Villain | joker
+Cap_Infinitywar | s_m_y_valet_01 | 0x3B96F23E | Valet | Hero | captain
+bakjoker | g_m_y_pologoon_02 | 0xA2E86156 | Polynesian Goon 2 | Villain | joker
+SabretoothV | s_m_y_construct_02 | 0xC5FEFADE | Construction Worker 2 | Villain | sabretooth
+Dardevil(netflix)darkerred | a_f_y_business_01 | 0x2799EFD8 | Business Young Female | Hero | daredevil
+Nightwing | g_m_y_ballaeast_01 | 0xF42EE883 | Ballas East Male | Hero | nightwing
+BBogV | s_m_y_dwservice_01 | 0x75D30A91 | DW Airport Worker | Villain | blackmask
+Kingpin(prison) | s_m_y_blackops_02 | 0x7A05FA59 | Black Ops Soldier 2 | Villain | kingpin
+CaptainAmerica_civilwar | a_m_y_acult_02 | 0x80E59F2E | Altruist Cult Young Male 2 | Hero | captain
+Hulk(AgeOfUltron) | a_m_y_cyclist_01 | 0xFDC653C7 | Cyclist Male | Hero | hulk
+WinterSoldier(MCU) | a_f_y_eastsa_02 | 0x0438A4AE | East SA Young Female 2 | Neutral | wintersoldier
+DoctorDoom | a_f_y_business_04 | 0xB7C61032 | Business Young Female 4 | Villain | doom
+JIGSAW | s_m_y_clubbar_01 | 0x4D73A43F | Club Bartender | Villain | jigsaw
+ThorAE_final | g_m_y_korean_02 | 0x8FEDD989 | Korean Young Male 2 | Hero | thor
+blackmask | a_m_y_soucent_03 | 0xC3F0F764 | South Central Young Male 3 | Villain | blackmask
+UltimateNickFury | s_m_y_cop_01 | 0x5E3DA4A4 | Cop Male | Hero | nickfury
+Black_Adam | a_m_y_vindouche_01 | 0xC19377E7 | Vinewood Douche | Villain | blackadam
+Moon Knight | s_m_y_baywatch_01 | 0x0B4A6862 | Baywatch Male | Hero | moonknight
+CrossBonesV | g_m_y_lost_01 | 0x4F46D607 | The Lost MC Male | Villain | crossbones
+DeadpoolMovie | a_f_y_fitness_02 | 0x13C4818C | Fitness Female 2 | Neutral | deadpool
+Namor | g_m_y_strpunk_02 | 0x0DA1EAC6 | Street Punk 2 | Villain | namor
+Tony Stark | a_m_y_gay_02 | 0xA5720781 | Gay Male 2 | Hero | ironman
+STR_PBTarantula | s_m_y_winclean_01 | 0x550D8D9D | Window Cleaner | Villain | tarantula
+WinterSoldier(MCU)V2 | s_m_y_uscg_01 | 0xCA0050E9 | US Coastguard | Neutral | wintersoldier
+wolverine | a_f_y_business_03 | 0xAE86FDB4 | Business Young Female 3 | Hero | wolverine
+mysterio | a_f_y_scdressy_01 | 0xDB5EC400 | Dressy Female | Villain | mysterio
+antman | a_f_y_topless_01 | 0x9CF26183 | Topless | Hero | antman
+MK46 | a_m_y_hippy_01 | 0x7D03E617 | Hippie Male | Hero | ironman
+GreenGoblin | a_m_y_roadcyc_01 | 0xF561A4C6 | Road Cyclist | Villain | greengoblin
+KILLERCROC | a_m_y_genstreet_02 | 0x3521A8D2 | General Street Young Male 2 | Villain | killercroc
+gamora2 | s_m_y_doorman_01 | 0x22911304 | Doorman | Hero | gamora
+starlord | s_m_y_pilot_01 | 0xAB300C07 | Pilot | Hero | starlord
+DRAX | g_m_y_salvagoon_02 | 0x3273A285 | Salvadoran Goon 2 | Hero | drax
+Cheetah(DCUnchained) | a_m_y_stbla_02 | 0x98C7404F | Black Street Male 2 | Villain | cheetah
+talia | a_f_y_business_02 | 0x31430342 | Business Young Female 2 | Villain | talia
+killmonger | a_m_y_bevhills_02 | 0x668BA707 | Beverly Hills Young Male 2 | Villain | killmonger
+AC_Azrael | g_m_y_famca_01 | 0xE83B93B7 | Families CA Male | Hero | azrael
+Venom(EddieBrock) | a_m_y_epsilon_01 | 0x77D41A3E | Epsilon Male | Villain | venom
+Spiderman Kid v2 | s_m_y_dwservice_02 | 0xF5908A06 | DW Airport Worker 2 | Hero | spiderman
+Quicksilver | a_m_y_epsilon_02 | 0xAA82FF9B | Epsilon Male 2 | Hero | quicksilver
+WinterSoldier(CivilWar) | g_m_y_pologoon_01 | 0x4F3FBA06 | Polynesian Goon | Neutral | wintersoldier

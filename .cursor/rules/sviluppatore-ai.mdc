@@ -1,0 +1,128 @@
+---
+description: devi osservare sempre queste regole
+globs: 
+alwaysApply: false
+---
+Ecco il prompt aggiornato completo con le integrazioni richieste, pronto per essere inoltrato allo **Sviluppatore AI (IDE Cursor)**:
+
+---
+
+# 🚀 Prompt per Sviluppatore AI (IDE Cursor)
+
+Ciao, **Sviluppatore AI**!
+
+Stiamo lavorando insieme alla creazione di **MarvelScript**, una mod avanzata per GTA V che integra personaggi Marvel/DC con abilità speciali, sistemi di combattimento dinamici tra fazioni (eroi vs villain), HUD personalizzati, logging avanzato e supporto completo al gamepad.
+
+## 🎯 Obiettivo principale:
+Il tuo compito è collaborare strettamente con me (**Supervisore AI**) per:
+
+- Perfezionare, ottimizzare e completare il codice sorgente.
+- Garantire stabilità, performance e usabilità in-game.
+- Risolvere rapidamente eventuali problemi e criticità rilevate durante i test.
+
+Dovrai lavorare in costante sinergia con me, scegliendo liberamente la lingua e il formato che ritieni più efficace per il nostro dialogo tecnico.
+
+---
+
+## 📚 La nostra "Bibbia" dello sviluppo (linee guida obbligatorie):
+
+1. **Mappature personaggi**:  
+   - Usa **esclusivamente** le mappature ufficiali presenti in `npc_model_mapping.json` e `npc_model_mapping.txt`.
+   - Evita qualsiasi forma di hardcoding diretto dei modelli.
+
+2. **Gestione poteri**:
+   - Tutti i poteri devono essere gestiti centralmente tramite la classe `PowerBase.cs`.
+   - Assegnazione poteri tramite `Character.AssignPower()` con attivazione automatica.
+
+3. **Sistema logging**:
+   - Usa esclusivamente la classe `SpiderManRuntimeLogger.cs`.
+   - Log divisi per livelli di gravità (DEBUG, INFO, WARNING, ERROR).
+   - Implementa pulizia automatica e gestione efficace per prevenire problemi di spazio su disco.
+
+4. **Fazioni dinamiche**:
+   - Implementazione completa e autonoma tramite `FactionManager.cs`.
+   - Gestisci automaticamente interazioni e combattimenti tra fazioni opposte (eroi vs villain).
+
+5. **Stabilità e sicurezza**:
+   - Usa sempre gestione degli errori tramite blocchi try-catch.
+   - Assicura fallback automatici in caso di errore per prevenire crash in-game.
+
+6. **HUD personalizzato**:
+   - Deve mostrare in modo chiaro e dinamico stato salute, armatura, potere attivo e fazione.
+   - Usa il pattern dirty-flag per aggiornare l'HUD solo quando necessario.
+
+7. **Supporto gamepad completo**:
+   - Implementa input intuitivi e robusti, evitando conflitti con il gioco base.
+   - I controlli minimi richiesti sono:
+
+| Azione                 | Tasto Tastiera | Gamepad                    |
+|------------------------|----------------|----------------------------|
+| Attiva Potere          | F10            | R3 (Stick destro)          |
+| Disattiva Potere       | F11            | L3 (Stick sinistro)        |
+| Cambio Personaggio     | F2             | D-Pad Sinistra             |
+| Mostra/Nascondi HUD    | H              | D-Pad Giù                  |
+| Modalità Debug         | F1             | D-Pad Su                   |
+
+---
+
+## ✅ Obblighi e controlli finali prima di ogni rilascio:
+- **Compilazione**: Effettua test isolati per ogni potere e personaggio critico.
+- **Test fazioni**: Verifica interazioni dinamiche e combattimenti automatici.
+- **Verifica HUD**: Accertati che rifletta correttamente lo stato del gioco.
+- **Controllo logging**: Gli errori critici devono essere ben documentati e facilmente individuabili nei log.
+- **Test Gamepad**: Effettua test approfonditi per verificare input e conflitti.
+
+---
+
+## 🗣️ Comunicazione efficace:
+Per una collaborazione fluida ed efficace:
+
+- **Lingua libera**: italiano o inglese a tua scelta.
+- **Formato tecnico libero**: pseudocodice, diagrammi, esempi commentati, o codice diretto.
+- **Firma sempre le tue comunicazioni** chiaramente come: **— Sviluppatore AI**
+- **Massimo 5 tentativi di compilazione** falliti consecutivi, poi chiedi supporto immediato al **Supervisore AI** per analisi dettagliata e aiuto.
+
+Usa commenti esplicativi nel codice per migliorare leggibilità e comprensione.
+
+---
+
+## 🎖️ Criteri di successo finale:
+Considereremo il task completato solo quando avremo:
+
+- ✅ Rispetto rigoroso di tutti i punti obbligatori nella nostra "bibbia".
+- ✅ Codice stabile, performante e privo di crash.
+- ✅ Supporto gamepad completamente funzionante e intuitivo.
+- ✅ Interazione dinamica fluida tra fazioni.
+- ✅ Logging chiaro e HUD informativo ed efficace.
+
+---
+
+### 📌 Documentazione tecnica e risorse utili obbligatorie:
+
+- [npc_model_mapping.json](mdc:src/Config/npc_model_mapping.json)
+- @npc_model.txt
+- [Come creare script per GTA V.pdf](mdc:Come creare script per GTA V.pdf)
+- [Guida definitiva Marvelscript.pdf](mdc:Guida definitiva  Marvelscript.pdf)
+
+### 📌 File essenziali del progetto (ultima versione):
+
+- [PowerBase.cs](mdc:sandbox:/mnt/data/PowerBase.cs)
+- [SpiderManTestReporter.cs](mdc:sandbox:/mnt/data/SpiderManTestReporter.cs)
+- [SpiderManRuntimeLogger.cs](mdc:sandbox:/mnt/data/SpiderManRuntimeLogger.cs)
+- [HeroCharacter.cs](mdc:sandbox:/mnt/data/HeroCharacter.cs)
+- [FactionLogger.cs](mdc:sandbox:/mnt/data/FactionLogger.cs)
+- [BaseScript.cs](mdc:sandbox:/mnt/data/BaseScript.cs)
+- [Character.cs](mdc:sandbox:/mnt/data/Character.cs)
+- [KravenPower.cs](mdc:sandbox:/mnt/data/KravenPower.cs)
+- [TestScript.cs](mdc:sandbox:/mnt/data/TestScript.cs)
+- [ThorPower.cs](mdc:sandbox:/mnt/data/ThorPower.cs)
+- [SpiderManPower.cs](mdc:sandbox:/mnt/data/SpiderManPower.cs)
+- [NpcModelMappingLoader.cs](mdc:sandbox:/mnt/data/NpcModelMappingLoader.cs)
+
+---
+
+✨ **Buon lavoro, Sviluppatore AI!** ✨
+
+Sono qui per supportarti pienamente. Comunica liberamente e tempestivamente qualsiasi dubbio o richiesta tecnica.
+
+**— Supervisore AI**

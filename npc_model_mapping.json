@@ -1,0 +1,850 @@
+[
+  {
+    "name": "Punisher",
+    "model": "s_m_y_airworker",
+    "hash": "0x62018559",
+    "description": "Air Worker Male",
+    "faction": "Hero",
+    "powerType": "punisher"
+  },
+  {
+    "name": "Taskmaster",
+    "model": "g_m_y_korlieut_01",
+    "hash": "0x7CCBE17A",
+    "description": "Korean Lieutenant",
+    "faction": "Villain",
+    "powerType": "taskmaster"
+  },
+  {
+    "name": "Venom",
+    "model": "s_m_y_construct_01",
+    "hash": "0xD7DA9E99",
+    "description": "Construction Worker",
+    "faction": "Villain",
+    "powerType": "venom"
+  },
+  {
+    "name": "WMmk2",
+    "model": "a_m_y_juggalo_01",
+    "hash": "0x91CA3E2C",
+    "description": "Juggalo Male",
+    "faction": "Hero",
+    "powerType": "warmachine"
+  },
+  {
+    "name": "LOBO",
+    "model": "a_m_y_vinewood_04",
+    "hash": "0x31C9E669",
+    "description": "Vinewood Male 4",
+    "faction": "Villain",
+    "powerType": "lobo"
+  },
+  {
+    "name": "wanda",
+    "model": "g_m_y_pologoon_02_p",
+    "hash": "0x59279E8B",
+    "description": "Polynesian Goon 2",
+    "faction": "Hero",
+    "powerType": "scarletwitch"
+  },
+  {
+    "name": "Shuri",
+    "model": "s_m_y_prisoner_01",
+    "hash": "0xB1BB9B59",
+    "description": "Prisoner",
+    "faction": "Hero",
+    "powerType": "shuri"
+  },
+  {
+    "name": "Victor_Zsasz",
+    "model": "s_m_y_blackops_01",
+    "hash": "0xB3F3EE34",
+    "description": "Black Ops Soldier",
+    "faction": "Villain",
+    "powerType": "zsasz"
+  },
+  {
+    "name": "SolomonG",
+    "model": "a_m_y_skater_01",
+    "hash": "0xC1C46677",
+    "description": "Skater Young Male",
+    "faction": "Villain",
+    "powerType": "grundy"
+  },
+  {
+    "name": "prowler",
+    "model": "a_m_y_business_01",
+    "hash": "0xC99F21C4",
+    "description": "Business Young Male",
+    "faction": "Villain",
+    "powerType": "prowler"
+  },
+  {
+    "name": "venom_tas",
+    "model": "s_m_y_hwaycop_01",
+    "hash": "0x739B1EF5",
+    "description": "Highway Cop",
+    "faction": "Villain",
+    "powerType": "venom"
+  },
+  {
+    "name": "Spawn",
+    "model": "s_m_y_prismuscl_01",
+    "hash": "0x5F2113A1",
+    "description": "Prisoner (Muscular)",
+    "faction": "Hero",
+    "powerType": "spawn"
+  },
+  {
+    "name": "wscapamerica(nohelm)",
+    "model": "s_m_y_strvend_01",
+    "hash": "0x927F2323",
+    "description": "Street Vendor Young",
+    "faction": "Hero",
+    "powerType": "captain"
+  },
+  {
+    "name": "Thor_IW",
+    "model": "a_m_y_business_03",
+    "hash": "0xA1435105",
+    "description": "Business Young Male 3",
+    "faction": "Hero",
+    "powerType": "thor"
+  },
+  {
+    "name": "BlackWidow_TeamSuit",
+    "model": "g_m_y_famfor_01",
+    "hash": "0x84302B09",
+    "description": "Families FOR Male",
+    "faction": "Hero",
+    "powerType": "blackwidow"
+  },
+  {
+    "name": "KravenTH",
+    "model": "a_m_y_hipster_02",
+    "hash": "0x14D506EE",
+    "description": "Hipster Male 2",
+    "faction": "Villain",
+    "powerType": "kraven"
+  },
+  {
+    "name": "docstm",
+    "model": "a_m_y_clubcust_02",
+    "hash": "0xC62F4D32",
+    "description": "Club Customer",
+    "faction": "Villain",
+    "powerType": "doctoroctopus"
+  },
+  {
+    "name": "scarlet_witch",
+    "model": "a_m_y_surfer_01",
+    "hash": "0xEAC2C7EE",
+    "description": "Surfer",
+    "faction": "Hero",
+    "powerType": "scarletwitch"
+  },
+  {
+    "name": "ThorAETeamSuit",
+    "model": "s_m_y_mime",
+    "hash": "0x3CDCA742",
+    "description": "Mime Artist",
+    "faction": "Hero",
+    "powerType": "thor"
+  },
+  {
+    "name": "Cable_XForce",
+    "model": "a_m_y_beachvesp_02",
+    "hash": "0xCA56FA52",
+    "description": "Vespucci Beach Male 2",
+    "faction": "Hero",
+    "powerType": "cable"
+  },
+  {
+    "name": "Scorpion_Injustice",
+    "model": "g_m_y_lost_03",
+    "hash": "0x32B11CDC",
+    "description": "The Lost MC Male 3",
+    "faction": "Villain",
+    "powerType": "scorpion"
+  },
+  {
+    "name": "CrossBones",
+    "model": "g_m_y_mexgoon_03",
+    "hash": "0x964D12DC",
+    "description": "Mexican Goon 3",
+    "faction": "Villain",
+    "powerType": "crossbones"
+  },
+  {
+    "name": "Mysterio_FFH",
+    "model": "a_f_y_eastsa_01",
+    "hash": "0xF5B0079D",
+    "description": "East SA Young Female",
+    "faction": "Villain",
+    "powerType": "mysterio"
+  },
+  {
+    "name": "redskull",
+    "model": "a_m_y_clubcust_03",
+    "hash": "0xD4F5EABF",
+    "description": "Club Customer",
+    "faction": "Villain",
+    "powerType": "redskull"
+  },
+  {
+    "name": "Blackwidow_AE",
+    "model": "s_m_y_waretech_01",
+    "hash": "0x48C7A430",
+    "description": "Warehouse Technician",
+    "faction": "Hero",
+    "powerType": "blackwidow"
+  },
+  {
+    "name": "Ultron",
+    "model": "a_f_y_vinewood_01",
+    "hash": "0x19F41F65",
+    "description": "Vinewood Female",
+    "faction": "Villain",
+    "powerType": "ultron"
+  },
+  {
+    "name": "HulkbusterIW",
+    "model": "a_f_y_tourist_01",
+    "hash": "0x563B8570",
+    "description": "Tourist Young Female",
+    "faction": "Hero",
+    "powerType": "hulkbuster"
+  },
+  {
+    "name": "lukecage",
+    "model": "a_m_y_hipster_01",
+    "hash": "0x2307A353",
+    "description": "Hipster Male",
+    "faction": "Hero",
+    "powerType": "lukecage"
+  },
+  {
+    "name": "Daredevil(Netflix)brighterred",
+    "model": "a_f_y_clubcust_02",
+    "hash": "0x154E3679",
+    "description": "Club Customer",
+    "faction": "Hero",
+    "powerType": "daredevil"
+  },
+  {
+    "name": "johnnystar",
+    "model": "a_f_y_clubcust_03",
+    "hash": "0x00A40D25",
+    "description": "Club Customer",
+    "faction": "Hero",
+    "powerType": "johnnystar"
+  },
+  {
+    "name": "loki_tr",
+    "model": "a_f_y_golfer_01",
+    "hash": "0x7DD8FB58",
+    "description": "Golfer Young Female",
+    "faction": "Villain",
+    "powerType": "loki"
+  },
+  {
+    "name": "BlueBV",
+    "model": "a_m_y_beachvesp_01",
+    "hash": "0x7E0961B8",
+    "description": "Vespucci Beach Male",
+    "faction": "Hero",
+    "powerType": "beetle"
+  },
+  {
+    "name": "Joker(BAC)",
+    "model": "a_m_y_business_02",
+    "hash": "0xB3B3F5E6",
+    "description": "Business Young Male 2",
+    "faction": "Villain",
+    "powerType": "joker"
+  },
+  {
+    "name": "Carnage(MH)",
+    "model": "a_m_y_stwhi_01",
+    "hash": "0x2418C430",
+    "description": "White Street Male",
+    "faction": "Villain",
+    "powerType": "carnage"
+  },
+  {
+    "name": "capamerica(helm)",
+    "model": "a_m_y_busicas_01",
+    "hash": "0x9AD32FE9",
+    "description": "Business Casual",
+    "faction": "Hero",
+    "powerType": "captain"
+  },
+  {
+    "name": "BlackPanther",
+    "model": "s_m_y_factory_01",
+    "hash": "0x4163A158",
+    "description": "Factory Worker Male",
+    "faction": "Hero",
+    "powerType": "blackpanther"
+  },
+  {
+    "name": "capamerica(nohelm)",
+    "model": "g_m_y_salvagoon_01",
+    "hash": "0x278C8CB7",
+    "description": "Salvadoran Goon",
+    "faction": "Hero",
+    "powerType": "captain"
+  },
+  {
+    "name": "bane",
+    "model": "a_f_y_skater_01",
+    "hash": "0x695FE666",
+    "description": "Skater Female",
+    "faction": "Villain",
+    "powerType": "bane"
+  },
+  {
+    "name": "FlashUpgradedInjustice2",
+    "model": "a_m_y_musclbeac_02",
+    "hash": "0xC923247C",
+    "description": "Beach Muscle Male 2",
+    "faction": "Hero",
+    "powerType": "flash"
+  },
+  {
+    "name": "JokerThug2",
+    "model": "a_m_y_dhill_01",
+    "hash": "0xFF3E88AB",
+    "description": "Downhill Cyclist",
+    "faction": "Villain",
+    "powerType": "thug"
+  },
+  {
+    "name": "WarMachinemk3",
+    "model": "g_m_y_korean_01",
+    "hash": "0x247502A9",
+    "description": "Korean Young Male",
+    "faction": "Hero",
+    "powerType": "warmachine"
+  },
+  {
+    "name": "HulkBusterMFF",
+    "model": "a_m_y_yoga_01",
+    "hash": "0xAB0A7155",
+    "description": "Yoga Male",
+    "faction": "Hero",
+    "powerType": "hulkbuster"
+  },
+  {
+    "name": "Deadpool",
+    "model": "s_m_y_ammucity_01",
+    "hash": "0x9E08633D",
+    "description": "Ammu-Nation City Clerk",
+    "faction": "Hero",
+    "powerType": "deadpool"
+  },
+  {
+    "name": "Kingpin",
+    "model": "g_m_y_mexgoon_03_p",
+    "hash": "0x3A9C818D",
+    "description": "Mexican Goon 3",
+    "faction": "Villain",
+    "powerType": "kingpin"
+  },
+  {
+    "name": "cyclops90",
+    "model": "a_m_y_motox_02",
+    "hash": "0x77AC8FDA",
+    "description": "Motocross Biker 2",
+    "faction": "Hero",
+    "powerType": "cyclops"
+  },
+  {
+    "name": "Hawkeye Avengers",
+    "model": "a_m_y_gay_01",
+    "hash": "0xD1CCE036",
+    "description": "Gay Male",
+    "faction": "Hero",
+    "powerType": "hawkeye"
+  },
+  {
+    "name": "cable(deadpoolgame)",
+    "model": "s_m_y_dealer_01",
+    "hash": "0xE497BBEF",
+    "description": "Dealer",
+    "faction": "Hero",
+    "powerType": "cable"
+  },
+  {
+    "name": "BlackCat",
+    "model": "a_f_y_hippie_01",
+    "hash": "0x1475B827",
+    "description": "Hippie Female",
+    "faction": "Hero",
+    "powerType": "blackcat"
+  },
+  {
+    "name": "JeanGreyMFF",
+    "model": "a_f_y_tourist_02",
+    "hash": "0x9123FB40",
+    "description": "Tourist Young Female 2",
+    "faction": "Hero",
+    "powerType": "phoenix"
+  },
+  {
+    "name": "CWFalcon",
+    "model": "a_m_y_ktown_01",
+    "hash": "0x1AF6542C",
+    "description": "Korean Young Male",
+    "faction": "Hero",
+    "powerType": "falcon"
+  },
+  {
+    "name": "Carnage(CletusKasady)",
+    "model": "a_f_y_bevhills_03",
+    "hash": "0x20C8012F",
+    "description": "Beverly Hills Young Female 3",
+    "faction": "Villain",
+    "powerType": "carnage"
+  },
+  {
+    "name": "FlashEliteInjustice2",
+    "model": "g_m_y_pologoon_01_p",
+    "hash": "0x925F7838",
+    "description": "Polynesian Goon",
+    "faction": "Hero",
+    "powerType": "flash"
+  },
+  {
+    "name": "FlashInjustice2",
+    "model": "a_m_y_beach_02",
+    "hash": "0x23C7DC11",
+    "description": "Beach Young Male 2",
+    "faction": "Hero",
+    "powerType": "flash"
+  },
+  {
+    "name": "Teth_Adam",
+    "model": "a_m_y_sunbathe_01",
+    "hash": "0xB7292F0C",
+    "description": "Sunbather Male",
+    "faction": "Villain",
+    "powerType": "blackadam"
+  },
+  {
+    "name": "Poison-Ivy",
+    "model": "a_m_y_vinewood_03",
+    "hash": "0x1FDF4294",
+    "description": "Vinewood Male 3",
+    "faction": "Villain",
+    "powerType": "poisonivy"
+  },
+  {
+    "name": "Hulk(Avengers)",
+    "model": "a_f_y_vinewood_02",
+    "hash": "0xDAB6A0EB",
+    "description": "Vinewood Female 2",
+    "faction": "Hero",
+    "powerType": "hulk"
+  },
+  {
+    "name": "Ronin",
+    "model": "a_f_y_bevhills_02",
+    "hash": "0x5C2CF7F8",
+    "description": "Beverly Hills Young Female 2",
+    "faction": "Hero",
+    "powerType": "ronin"
+  },
+  {
+    "name": "GRobbie",
+    "model": "a_m_y_soucent_02",
+    "hash": "0xACA3C8CA",
+    "description": "South Central Young Male 2",
+    "faction": "Villain",
+    "powerType": "ghostrider"
+  },
+  {
+    "name": "AC_Victor_Zsasz",
+    "model": "a_f_y_runner_01",
+    "hash": "0xC7496729",
+    "description": "Jogger Female",
+    "faction": "Villain",
+    "powerType": "zsasz"
+  },
+  {
+    "name": "wscapamerica(helm)",
+    "model": "a_f_y_fitness_01",
+    "hash": "0x457C64FB",
+    "description": "Fitness Female",
+    "faction": "Hero",
+    "powerType": "captain"
+  },
+  {
+    "name": "SpiderMan",
+    "model": "a_m_y_hipster_03",
+    "hash": "0x4E4179C6",
+    "description": "Hipster Male 3",
+    "faction": "Hero",
+    "powerType": "spiderman"
+  },
+  {
+    "name": "Grootz",
+    "model": "a_m_y_clubcust_01",
+    "hash": "0xA7B71042",
+    "description": "Club Customer",
+    "faction": "Hero",
+    "powerType": "groot"
+  },
+  {
+    "name": "Silversurfer",
+    "model": "s_m_y_shop_mask",
+    "hash": "0x6E122C06",
+    "description": "Sales Assistant (Mask Stall)",
+    "faction": "Hero",
+    "powerType": "silversurfer"
+  },
+  {
+    "name": "Stan_Lee_Nuff_Said",
+    "model": "g_m_y_salvagoon_03",
+    "hash": "0x70C720B0",
+    "description": "Salvadoran Goon 3",
+    "faction": "Hero",
+    "powerType": "stanlee"
+  },
+  {
+    "name": "JokerThug1",
+    "model": "a_m_y_vinewood_02",
+    "hash": "0x5D15BD00",
+    "description": "Vinewood Male 2",
+    "faction": "Villain",
+    "powerType": "thug"
+  },
+  {
+    "name": "Joker(BAK)",
+    "model": "a_m_y_indian_01",
+    "hash": "0x2A22FBCE",
+    "description": "Indian Young Male",
+    "faction": "Villain",
+    "powerType": "joker"
+  },
+  {
+    "name": "Cap_Infinitywar",
+    "model": "s_m_y_valet_01",
+    "hash": "0x3B96F23E",
+    "description": "Valet",
+    "faction": "Hero",
+    "powerType": "captain"
+  },
+  {
+    "name": "bakjoker",
+    "model": "g_m_y_pologoon_02",
+    "hash": "0xA2E86156",
+    "description": "Polynesian Goon 2",
+    "faction": "Villain",
+    "powerType": "joker"
+  },
+  {
+    "name": "SabretoothV",
+    "model": "s_m_y_construct_02",
+    "hash": "0xC5FEFADE",
+    "description": "Construction Worker 2",
+    "faction": "Villain",
+    "powerType": "sabretooth"
+  },
+  {
+    "name": "Dardevil(netflix)darkerred",
+    "model": "a_f_y_business_01",
+    "hash": "0x2799EFD8",
+    "description": "Business Young Female",
+    "faction": "Hero",
+    "powerType": "daredevil"
+  },
+  {
+    "name": "Nightwing",
+    "model": "g_m_y_ballaeast_01",
+    "hash": "0xF42EE883",
+    "description": "Ballas East Male",
+    "faction": "Hero",
+    "powerType": "nightwing"
+  },
+  {
+    "name": "BBogV",
+    "model": "s_m_y_dwservice_01",
+    "hash": "0x75D30A91",
+    "description": "DW Airport Worker",
+    "faction": "Villain",
+    "powerType": "blackmask"
+  },
+  {
+    "name": "Kingpin(prison)",
+    "model": "s_m_y_blackops_02",
+    "hash": "0x7A05FA59",
+    "description": "Black Ops Soldier 2",
+    "faction": "Villain",
+    "powerType": "kingpin"
+  },
+  {
+    "name": "CaptainAmerica_civilwar",
+    "model": "a_m_y_acult_02",
+    "hash": "0x80E59F2E",
+    "description": "Altruist Cult Young Male 2",
+    "faction": "Hero",
+    "powerType": "captain"
+  },
+  {
+    "name": "Hulk(AgeOfUltron)",
+    "model": "a_m_y_cyclist_01",
+    "hash": "0xFDC653C7",
+    "description": "Cyclist Male",
+    "faction": "Hero",
+    "powerType": "hulk"
+  },
+  {
+    "name": "WinterSoldier(MCU)",
+    "model": "a_f_y_eastsa_02",
+    "hash": "0x0438A4AE",
+    "description": "East SA Young Female 2",
+    "faction": "Villain",
+    "powerType": "wintersoldier"
+  },
+  {
+    "name": "DoctorDoom",
+    "model": "a_f_y_business_04",
+    "hash": "0xB7C61032",
+    "description": "Business Young Female 4",
+    "faction": "Villain",
+    "powerType": "doom"
+  },
+  {
+    "name": "JIGSAW",
+    "model": "s_m_y_clubbar_01",
+    "hash": "0x4D73A43F",
+    "description": "Club Bartender",
+    "faction": "Villain",
+    "powerType": "jigsaw"
+  },
+  {
+    "name": "ThorAE_final",
+    "model": "g_m_y_korean_02",
+    "hash": "0x8FEDD989",
+    "description": "Korean Young Male 2",
+    "faction": "Hero",
+    "powerType": "thor"
+  },
+  {
+    "name": "blackmask",
+    "model": "a_m_y_soucent_03",
+    "hash": "0xC3F0F764",
+    "description": "South Central Young Male 3",
+    "faction": "Villain",
+    "powerType": "blackmask"
+  },
+  {
+    "name": "UltimateNickFury",
+    "model": "s_m_y_cop_01",
+    "hash": "0x5E3DA4A4",
+    "description": "Cop Male",
+    "faction": "Hero",
+    "powerType": "nickfury"
+  },
+  {
+    "name": "Black_Adam",
+    "model": "a_m_y_vindouche_01",
+    "hash": "0xC19377E7",
+    "description": "Vinewood Douche",
+    "faction": "Villain",
+    "powerType": "blackadam"
+  },
+  {
+    "name": "Moon Knight",
+    "model": "s_m_y_baywatch_01",
+    "hash": "0x0B4A6862",
+    "description": "Baywatch Male",
+    "faction": "Hero",
+    "powerType": "moonknight"
+  },
+  {
+    "name": "CrossBonesV",
+    "model": "g_m_y_lost_01",
+    "hash": "0x4F46D607",
+    "description": "The Lost MC Male",
+    "faction": "Villain",
+    "powerType": "crossbones"
+  },
+  {
+    "name": "DeadpoolMovie",
+    "model": "a_f_y_fitness_02",
+    "hash": "0x13C4818C",
+    "description": "Fitness Female 2",
+    "faction": "Hero",
+    "powerType": "deadpool"
+  },
+  {
+    "name": "Namor",
+    "model": "g_m_y_strpunk_02",
+    "hash": "0x0DA1EAC6",
+    "description": "Street Punk 2",
+    "faction": "Villain",
+    "powerType": "namor"
+  },
+  {
+    "name": "Tony Stark",
+    "model": "a_m_y_gay_02",
+    "hash": "0xA5720781",
+    "description": "Gay Male 2",
+    "faction": "Hero",
+    "powerType": "ironman"
+  },
+  {
+    "name": "STR_PBTarantula",
+    "model": "s_m_y_winclean_01",
+    "hash": "0x550D8D9D",
+    "description": "Window Cleaner",
+    "faction": "Villain",
+    "powerType": "tarantula"
+  },
+  {
+    "name": "WinterSoldier(MCU)V2",
+    "model": "s_m_y_uscg_01",
+    "hash": "0xCA0050E9",
+    "description": "US Coastguard",
+    "faction": "Villain",
+    "powerType": "wintersoldier"
+  },
+  {
+    "name": "wolverine",
+    "model": "a_f_y_business_03",
+    "hash": "0xAE86FDB4",
+    "description": "Business Young Female 3",
+    "faction": "Hero",
+    "powerType": "wolverine"
+  },
+  {
+    "name": "mysterio",
+    "model": "a_f_y_scdressy_01",
+    "hash": "0xDB5EC400",
+    "description": "Dressy Female",
+    "faction": "Villain",
+    "powerType": "mysterio"
+  },
+  {
+    "name": "antman",
+    "model": "a_f_y_topless_01",
+    "hash": "0x9CF26183",
+    "description": "Topless",
+    "faction": "Hero",
+    "powerType": "antman"
+  },
+  {
+    "name": "MK46",
+    "model": "a_m_y_hippy_01",
+    "hash": "0x7D03E617",
+    "description": "Hippie Male",
+    "faction": "Hero",
+    "powerType": "ironman"
+  },
+  {
+    "name": "GreenGoblin",
+    "model": "a_m_y_roadcyc_01",
+    "hash": "0xF561A4C6",
+    "description": "Road Cyclist",
+    "faction": "Villain",
+    "powerType": "greengoblin"
+  },
+  {
+    "name": "KILLERCROC",
+    "model": "a_m_y_genstreet_02",
+    "hash": "0x3521A8D2",
+    "description": "General Street Young Male 2",
+    "faction": "Villain",
+    "powerType": "killercroc"
+  },
+  {
+    "name": "gamora2",
+    "model": "s_m_y_doorman_01",
+    "hash": "0x22911304",
+    "description": "Doorman",
+    "faction": "Hero",
+    "powerType": "gamora"
+  },
+  {
+    "name": "starlord",
+    "model": "s_m_y_pilot_01",
+    "hash": "0xAB300C07",
+    "description": "Pilot",
+    "faction": "Hero",
+    "powerType": "starlord"
+  },
+  {
+    "name": "DRAX",
+    "model": "g_m_y_salvagoon_02",
+    "hash": "0x3273A285",
+    "description": "Salvadoran Goon 2",
+    "faction": "Hero",
+    "powerType": "drax"
+  },
+  {
+    "name": "Cheetah(DCUnchained)",
+    "model": "a_m_y_stbla_02",
+    "hash": "0x98C7404F",
+    "description": "Black Street Male 2",
+    "faction": "Villain",
+    "powerType": "cheetah"
+  },
+  {
+    "name": "talia",
+    "model": "a_f_y_business_02",
+    "hash": "0x31430342",
+    "description": "Business Young Female 2",
+    "faction": "Villain",
+    "powerType": "talia"
+  },
+  {
+    "name": "killmonger",
+    "model": "a_m_y_bevhills_02",
+    "hash": "0x668BA707",
+    "description": "Beverly Hills Young Male 2",
+    "faction": "Villain",
+    "powerType": "killmonger"
+  },
+  {
+    "name": "AC_Azrael",
+    "model": "g_m_y_famca_01",
+    "hash": "0xE83B93B7",
+    "description": "Families CA Male",
+    "faction": "Hero",
+    "powerType": "azrael"
+  },
+  {
+    "name": "Venom(EddieBrock)",
+    "model": "a_m_y_epsilon_01",
+    "hash": "0x77D41A3E",
+    "description": "Epsilon Male",
+    "faction": "Villain",
+    "powerType": "venom"
+  },
+  {
+    "name": "Spiderman Kid v2",
+    "model": "s_m_y_dwservice_02",
+    "hash": "0xF5908A06",
+    "description": "DW Airport Worker 2",
+    "faction": "Hero",
+    "powerType": "spiderman"
+  },
+  {
+    "name": "Quicksilver",
+    "model": "a_m_y_epsilon_02",
+    "hash": "0xAA82FF9B",
+    "description": "Epsilon Male 2",
+    "faction": "Hero",
+    "powerType": "quicksilver"
+  },
+  {
+    "name": "WinterSoldier(CivilWar)",
+    "model": "g_m_y_pologoon_01",
+    "hash": "0x4F3FBA06",
+    "description": "Polynesian Goon",
+    "faction": "Villain",
+    "powerType": "wintersoldier"
+  }
+]

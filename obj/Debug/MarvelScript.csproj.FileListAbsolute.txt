@@ -1,0 +1,10 @@
+D:\dekstop\MarvelScriptV2\bin\Debug\MarvelScript.dll
+D:\dekstop\MarvelScriptV2\bin\Debug\MarvelScript.pdb
+D:\dekstop\MarvelScriptV2\bin\Debug\Newtonsoft.Json.dll
+D:\dekstop\MarvelScriptV2\bin\Debug\ScriptHookVDotNet3.dll
+D:\dekstop\MarvelScriptV2\bin\Debug\ScriptHookVDotNet3.xml
+D:\dekstop\MarvelScriptV2\obj\Debug\MarvelScript.csproj.AssemblyReference.cache
+D:\dekstop\MarvelScriptV2\obj\Debug\MarvelScript.csproj.CoreCompileInputs.cache
+D:\dekstop\MarvelScriptV2\obj\Debug\MarvelSc.970D55E2.Up2Date
+D:\dekstop\MarvelScriptV2\obj\Debug\MarvelScript.dll
+D:\dekstop\MarvelScriptV2\obj\Debug\MarvelScript.pdb

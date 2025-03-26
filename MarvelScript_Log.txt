@@ -1,0 +1,45 @@
+[2025-03-25 23:32:27] Avvio MarvelScript...
+[2025-03-25 23:32:27] 🔄 Inizializzazione caricamento personaggi...
+[2025-03-25 23:32:27] 📊 Distribuzione fazioni:
+[2025-03-25 23:32:27] - Eroi: 58
+[2025-03-25 23:32:27] - Villain: 48
+[2025-03-25 23:32:27] ✅ 106 personaggi caricati e validati con successo
+[2025-03-25 23:32:27] [MainScript] Inizializzato.
+[2025-03-25 23:32:27] [MainScript] 🔍 Scansione 10 pedoni vicini (totale trovati: 24)
+[2025-03-25 23:32:27] [MainScript] ⚠️ Modello sconosciuto: Hash 0x2F4AEC3E
+[2025-03-25 23:32:27] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0x2F4AEC3E
+[2025-03-25 23:32:27] [MainScript] ⚠️ Modello sconosciuto: Hash 0x6D1E15F7
+[2025-03-25 23:32:27] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0x6D1E15F7
+[2025-03-25 23:32:27] [MainScript] ⚠️ Modello sconosciuto: Hash 0x54DBEE1F
+[2025-03-25 23:32:28] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0x54DBEE1F
+[2025-03-25 23:32:28] [MainScript] ⚠️ Modello sconosciuto: Hash 0x36C6E98C
+[2025-03-25 23:32:28] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0x36C6E98C
+[2025-03-25 23:32:28] [MainScript] ⚠️ Modello sconosciuto: Hash 0x570462B9
+[2025-03-25 23:32:28] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0x570462B9
+[2025-03-25 23:32:28] [MainScript] ⚠️ Modello sconosciuto: Hash 0xDE352A35
+[2025-03-25 23:32:28] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0xDE352A35
+[2025-03-25 23:32:28] [MainScript] ⚠️ Modello sconosciuto: Hash 0x445AC854
+[2025-03-25 23:32:28] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0x445AC854
+[2025-03-25 23:32:28] [MainScript] ⚠️ Modello sconosciuto: Hash 0x2F4AEC3E
+[2025-03-25 23:32:28] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0x2F4AEC3E
+[2025-03-25 23:32:28] [MainScript] ⚠️ Modello sconosciuto: Hash 0x76284640
+[2025-03-25 23:32:28] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0x76284640
+[2025-03-25 23:32:28] [MainScript] 📝 Modello rilevato: Black_Adam (Hash: 0xC19377E7)
+[2025-03-25 23:32:28] [MainScript] 🔄 Tentativo registrazione Villain: Black_Adam (3247667175)
+[2025-03-25 23:32:28] [Factions] 🔍 Black_Adam (Hash: 0xC19377E7) → !IsOnFoot
+[2025-03-25 23:32:28] [Factions] ⛔️ Pedone instabile al momento della registrazione: Black_Adam (Hash: 0xC19377E7)
+[2025-03-25 23:32:28] [MainScript] ❌ Registrazione fallita per Black_Adam - Possibile duplicato o pedone non valido
+[2025-03-25 23:32:28] [MainScript] 📊 Scansione completata: 0 registrati su 10 processati
+[2025-03-25 23:32:28] [MainScript] 🔄 Ottimizzati 3 pedoni distanti
+[2025-03-25 23:32:28] [Factions] 📊 Personaggi registrati: 0 (0 eroi, 0 villain)
+[2025-03-25 23:33:45] [MainScript] 🔍 Scansione 10 pedoni vicini (totale trovati: 52)
+[2025-03-25 23:33:45] [MainScript] ⚠️ Modello sconosciuto: Hash 0xECCA8C15
+[2025-03-25 23:33:45] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0xECCA8C15
+[2025-03-25 23:33:45] [MainScript] ⚠️ Modello sconosciuto: Hash 0xECCA8C15
+[2025-03-25 23:33:45] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0xECCA8C15
+[2025-03-25 23:33:45] [MainScript] ⚠️ Modello sconosciuto: Hash 0x97F5FE8D
+[2025-03-25 23:33:45] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0x97F5FE8D
+[2025-03-25 23:33:45] [MainScript] ⚠️ Modello sconosciuto: Hash 0xECCA8C15
+[2025-03-25 23:33:45] [MainScript] ❌ Modello non presente in npc_model_mapping.json: Hash 0xECCA8C15
+[2025-03-25 23:33:45] [MainScript] 📝 Modello rilevato: Ultron (Hash: 0x19F41F65)
+[2025-03-25 23:33:45] [MainScript] 🔄 Tentativo registrazione Villain: Ultron (435429221)

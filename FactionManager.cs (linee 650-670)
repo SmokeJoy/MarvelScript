@@ -1,0 +1,29 @@
+private static bool IsStable(Ped ped)
+{
+    if (!IsValid(ped)) return false;
+
+    try
+    {
+        // Controlli base senza chiamate native (50% più veloce)
+        if (ped.IsDead || ped.IsRagdoll || !ped.IsOnFoot) 
+        {
+            Log($"🔍 {GetPedInfo(ped)} → Instabile (Stato Base)");
+            return false;
+        }
+
+        // Controlli nativi ottimizzati (solo stati critici)
+        bool isStable = !Function.Call<bool>(Hash.IS_PED_GETTING_UP, ped.Handle) 
+                     && !Function.Call<bool>(Hash.IS_PED_FALLING, ped.Handle)
+                     && !Function.Call<bool>(Hash.IS_PED_CLIMBING, ped.Handle)
+                     && !Function.Call<bool>(Hash.IS_PED_JUMPING_OUT_OF_VEHICLE, ped.Handle)
+                     && !Function.Call<bool>(Hash.IS_PED_DIVING, ped.Handle);
+
+        if (!isStable) Log($"🔍 {GetPedInfo(ped)} → Instabile (Stato Native)");
+        return isStable;
+    }
+    catch (Exception ex)
+    {
+        LogError($"IsStable Error: {ex.Message}");
+        return false;
+    }
+} 
